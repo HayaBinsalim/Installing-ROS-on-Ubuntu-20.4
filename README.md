@@ -1,7 +1,7 @@
 # Installing-ROS-on-Ubuntu-20.4
 # Description
 
-Installation of ROS on Ubuntu 20.4. Make sure Ubuntu 20.4 is installed on your device. 
+Installation of ROS Noetic on Ubuntu 20.4. Make sure Ubuntu 20.4 is installed on your device. 
 
 ## 1. Open Ubuntu 20.4
 From the virtual box, start Ubuntu 20.4 and login into your account. Start the ***terminal*** application. This is where all the following steps will be done. 
